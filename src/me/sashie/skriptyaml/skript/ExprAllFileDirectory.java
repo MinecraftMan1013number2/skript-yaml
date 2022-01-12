@@ -1,4 +1,4 @@
-package com.olyno.skent.skript.expressions;
+package me.sashie.skriptyaml.skript;
 
 import java.io.IOException;
 import java.nio.file.FileSystems;

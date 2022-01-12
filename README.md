@@ -1,6 +1,10 @@
 # skript-yaml
 The proper way to do yaml in skript
 
+
+Rather then checking the file each time this addon caches the yaml file to memory
+
+
 # NOTE 
 This is a custom fork of skript-yaml.
 An additional syntax from Skent has been added.
@@ -9,7 +13,7 @@ Original Repositories are listed below.
 - skript-yaml: https://github.com/Sashie/skript-yaml/
 - Skent: https://github.com/Olyno/skent
 
-Rather then checking the file each time this addon caches the yaml file to memory
+
 
 ## Contents
 

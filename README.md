@@ -15,7 +15,7 @@ Original Repositories are listed below.
 
 
 
-## Contents
+## Contents - skript-yaml
 
 Effects
  - [Load yaml](#effect-load-yaml)
@@ -41,6 +41,13 @@ Expressions
  - [Does yaml path exist](#condition-does-yaml-path-exist)
  - [Is yaml path a list](#condition-does-yaml-path-have-list)
  - [Does yaml exist](#condition-does-yaml-exist)
+
+## Contents - Skent
+Click to get link to original docs
+
+Expressions
+ - [All File/Directory](https://skripthub.net/docs/?id=4243)
+ - [File/Directory](https://skripthub.net/docs/?id=4248)
 
 ## Effects
 

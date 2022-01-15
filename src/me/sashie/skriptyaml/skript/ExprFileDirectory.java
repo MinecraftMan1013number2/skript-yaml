@@ -1,4 +1,4 @@
-package com.olyno.skent.skript.expressions;
+package me.sashie.skriptyaml.skript;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
